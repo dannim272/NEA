@@ -55,7 +55,7 @@
 			- Limited in terms of advanced features and modern GUI aesthetics.
 		- Visual
 			- Basic Program
-				- ![[Pasted image 20240615222414.png]]
+				- ![[Basic_Tk.png]]
 			- Medium Complexity Program
 				- ![[Pasted image 20240615223556.png]]
 		- Evaluation
